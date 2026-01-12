@@ -15,5 +15,5 @@ This project implements a **Spatio-Temporal Intensity Analysis** pipeline combin
 * `python_code/`: Python scripts for Intensity Analysis.
     * `main.py`: Performs Interval, Category, and Transition level analysis and generates figures.
     * *Usage Note: Update the `matrix_folder` variable in the script to point to your input data.*
-* `data/`: Contains sample transition matrices to test the code.
+* `Data/`: Contains sample transition matrices to test the code.
 * `IPCC_5_roi_shapefiles_for_africa/`: Shapefiles used for regional stratification.
