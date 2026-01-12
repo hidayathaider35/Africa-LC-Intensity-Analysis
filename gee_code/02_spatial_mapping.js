@@ -4,7 +4,7 @@
 
 // 1. SETUP
 // *** RENAME 'roi' to match your asset variable name ***
-var roi = roi; 
+var roi = //IPCC_5_roi_shapefile 
 
 // Define reclassification (Original 1-10 Scheme)
 // 1:CRP, 2:FST, 3:SHR, 4:GRS, 5:TUD, 6:WET, 7:IMP, 8:BAL, 9:WTR, 10:PSI
