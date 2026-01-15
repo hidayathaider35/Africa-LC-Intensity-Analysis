@@ -13,7 +13,7 @@ This project implements a **Spatio-Temporal Intensity Analysis** pipeline combin
     * `02_spatial_mapping.js`: Maps dominant transition pathways (Deforestation, Desertification, etc.).
     * *Note: These scripts use the ROI shapefiles located in `IPCC_5_roi_shapefiles_for_africa/`.*
 * `python_code/`: Python scripts for Intensity Analysis.
-    * `main.py`: Performs Interval, Category, and Transition level analysis and generates figures.
+    * `main.py`: Performs Interval, Category, and Transition level analysis and generates results (in .csv and .png).
     * *Usage Note: Update the `matrix_folder` variable in the script to point to your input data.*
 * `Data/`: Contains sample transition matrices to test the code.
 * `IPCC_5_roi_shapefiles_for_africa/`: Shapefiles used for regional stratification.
