@@ -58,4 +58,6 @@ This study uses the **GLC_FCS30D** dataset (30 m, 1985–2022):
 
 If you use this code, please cite:
 
-> Ullah, H.; Kalisa, W.; Ali, S.; Kong, D.; Zhang, J. Significant Land Cover Transitions and Regional Acceleration at the Continental Scale of Africa Over the Last Four Decades. *Sensors* **2026**.
+```
+[Citation will be added upon publication]
+```
